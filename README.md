@@ -43,7 +43,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=SuchitraSwain&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&border_radius=12" />
 </p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SuchitraSwain&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=SuchitraSwain&theme=dark&t=123456)
 
 
 <p align="center">
