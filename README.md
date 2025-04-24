@@ -43,14 +43,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=SuchitraSwain&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&border_radius=12" />
 </p>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SuchitraSwain&theme=radical&no-frame=true&row=1&column=6" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SuchitraSwain&theme=dark)
 
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuchitraSwain&theme=dark" alt="GitHub Streak" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuchitraSwain&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
