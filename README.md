@@ -47,6 +47,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuchitraSwain&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuchitraSwain&theme=radical&hide_border=true&border_radius=12" />
+</p>
+
 ---
 
 ### 🌐 Let's Connect!
