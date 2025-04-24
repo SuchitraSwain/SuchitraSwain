@@ -47,12 +47,9 @@
 <img src="https://github-profile-trophy.vercel.app/?username=SuchitraSwain&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
-<p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=SuchitraSwain&theme=react-dark&hide_border=true" />
-</p>
 
 <p align="center">
-  <img src="[https://streak-stats.demolab.com?user=SuchitraSwain&theme=radical&hide_border=true&border_radius=12]" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=SuchitraSwain&theme=radical&hide_border=true&border_radius=12" alt="GitHub Streak" />
 </p>
 
 <p align="center">
